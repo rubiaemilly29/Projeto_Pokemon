@@ -7,7 +7,7 @@ Esse projeto e uma construcao de API de pokemon. Com funcionalidades de Salvar, 
     
   * `git clone git@github.com:rubiaemilly29/Projeto_Pokemon.git`.
 * Entre na pasta do repositório que você acabou de clonar:
-  * `cd sd-011-project-recipes-app`
+  * `cd Projeto_Pokemon`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
